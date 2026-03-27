@@ -1,4 +1,4 @@
-# 20. Backend Security: Everything You Need to Know*
+# 20. Backend Security: Everything You Need to Know
 
 ### *1. The Core Security Mindset*
 *   *The Problem:* No application is perfectly secure, but many vulnerabilities stem from a single question: *"Where did the developer make an assumption?"*. Developers often assume the "happy path"—that users will type correct inputs and only click intended buttons.
